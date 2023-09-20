@@ -1,2 +1,2 @@
-library(shiny)
+library(shiny) # For illustrating
 library(tidyverse)
